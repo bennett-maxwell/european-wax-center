@@ -1,0 +1,690 @@
+{
+ "slug": "european-wax-center",
+ "brand": "European Wax Center",
+ "field_count": 100,
+ "franchiseFee": 45000,
+ "totalInvestmentMin": 327600,
+ "totalInvestmentMax": 836950,
+ "royaltyPercent": "6%",
+ "adFee": "3%",
+ "totalUnits": 1067,
+ "openLocations": 1067,
+ "corporateCity": "Plano",
+ "corporateState": "TX",
+ "corporateZip": "75024",
+ "corporateAddress": "Granite Park V, 5830 Granite Parkway, Suite 300, Plano, TX 75024",
+ "description": "European Wax Center is a waxing-focused franchise founded through its predecessor group in 2006. It operates more than 1,000 retail centers across the United States offering facial and body waxing, hair-removal, and related skin-care services. The current franchisor, EWC Franchisor LLC, is headquartered in Plano, Texas, and operates under Ultimate parent European Wax Center, Inc. New franchisees pay a $45,000 franchise fee with an estimated total initial investment of $327,600 to $836,950, plus a 6% royalty and 3% marketing fund contribution. The franchise agreement runs 10 years with one 10-year successor term, and each center is granted a protected but non-exclusive territory.",
+ "category": "Beauty & Personal Care",
+ "websiteUrl": "https://www.waxcenter.com/",
+ "yearFounded": 2006,
+ "fddYear": 2025,
+ "territoryDescription": "Protected (not exclusive) territory granted after lease acceptance; franchisor will not establish new EWC franchise locations inside it but reserves e-commerce, alternate channels, and acquisition rights. (FDD Item 12, pp.48-50)",
+ "item12": "protected",
+ "territory_terms_text": "Protected territory granted after lease acceptance and depicted in a Location Letter; no EWC franchise locations will be established within it, but no exclusivity \u2014 you may face competition from franchisees, company outlets, other channels, and acquired competitive brands; e-commerce at waxcenter.com competes (10% revenue-share program for guests visiting a center within prior 12 months)",
+ "item20PinCount": 15,
+ "item20_fdd_count": 1067,
+ "item20_reconciliation": "Featured selection only: 15 pins (1 HQ + 14 operational centers from FDD Exhibit I, as of 3/21/2025) vs 1,067 total FDD Item-20 outlets \u2014 NOT a full census; labeled honestly as a featured selection on the page.",
+ "hq_source": "FDD Item 1, p.1 \u2014 EWC Franchisor LLC principal business address, Granite Park V, 5830 Granite Parkway, Suite 300, Plano, TX 75024",
+ "risk_score": 44,
+ "risk_score_method": "base 20 +10 capital intensity (investment ceiling $836,950, leasehold-heavy) +8 protected-not-exclusive territory with franchisor e-commerce competition +6 litigation history (4 prior actions + WA AG no-poaching investigation) +5 securitization financing structure (Apr 2022 whole-business securitization, multi-layer Holdco) +4 5-to-7 waxing-suite build constraint and multi-unit development pressure +3 no Item 19 financial performance representation \u22126 unit growth +25.2% franchised outlets 2022-2024 \u22124 zero terminations / non-renewals / reacquisitions 2022-2024 \u22122 audited parent-company financials (Item 21) = 44/100",
+ "pins": [
+  {
+   "label": "Weston, FL",
+   "city": "Weston",
+   "state": "FL",
+   "lat": 26.1003392,
+   "lng": -80.399513,
+   "source": "Nominatim geocode 2026-09-14",
+   "hq": false
+  },
+  {
+   "label": "Austin, TX",
+   "city": "Austin",
+   "state": "TX",
+   "lat": 30.2711286,
+   "lng": -97.7436995,
+   "source": "Nominatim geocode 2026-09-14",
+   "hq": false
+  },
+  {
+   "label": "Scottsdale, AZ",
+   "city": "Scottsdale",
+   "state": "AZ",
+   "lat": 33.4942189,
+   "lng": -111.926018,
+   "source": "Nominatim geocode 2026-09-14",
+   "hq": false
+  },
+  {
+   "label": "Roseville, CA",
+   "city": "Roseville",
+   "state": "CA",
+   "lat": 38.7521235,
+   "lng": -121.2880059,
+   "source": "Nominatim geocode 2026-09-14",
+   "hq": false
+  },
+  {
+   "label": "Kennesaw, GA",
+   "city": "Kennesaw",
+   "state": "GA",
+   "lat": 34.0234337,
+   "lng": -84.6154897,
+   "source": "Nominatim geocode 2026-09-14",
+   "hq": false
+  },
+  {
+   "label": "Fredericksburg, VA",
+   "city": "Fredericksburg",
+   "state": "VA",
+   "lat": 38.3001159,
+   "lng": -77.4571472,
+   "source": "Nominatim geocode 2026-09-14",
+   "hq": false
+  },
+  {
+   "label": "Mason, OH",
+   "city": "Mason",
+   "state": "OH",
+   "lat": 39.3600586,
+   "lng": -84.309939,
+   "source": "Nominatim geocode 2026-09-14",
+   "hq": false
+  },
+  {
+   "label": "Naperville, IL",
+   "city": "Naperville",
+   "state": "IL",
+   "lat": 41.7728699,
+   "lng": -88.1479278,
+   "source": "Nominatim geocode 2026-09-14",
+   "hq": false
+  },
+  {
+   "label": "Collegeville, PA",
+   "city": "Collegeville",
+   "state": "PA",
+   "lat": 40.1854712,
+   "lng": -75.4512163,
+   "source": "Nominatim geocode 2026-09-14",
+   "hq": false
+  },
+  {
+   "label": "Denver, CO",
+   "city": "Denver",
+   "state": "CO",
+   "lat": 39.7392364,
+   "lng": -104.984862,
+   "source": "Nominatim geocode 2026-09-14",
+   "hq": false
+  },
+  {
+   "label": "Stony Brook, NY",
+   "city": "Stony Brook",
+   "state": "NY",
+   "lat": 40.908482,
+   "lng": -73.1325471,
+   "source": "Nominatim geocode 2026-09-14",
+   "hq": false
+  },
+  {
+   "label": "Vancouver, WA",
+   "city": "Vancouver",
+   "state": "WA",
+   "lat": 45.6306954,
+   "lng": -122.6744557,
+   "source": "Nominatim geocode 2026-09-14",
+   "hq": false
+  },
+  {
+   "label": "Saugus, MA",
+   "city": "Saugus",
+   "state": "MA",
+   "lat": 42.4648183,
+   "lng": -71.010051,
+   "source": "Nominatim geocode 2026-09-14",
+   "hq": false
+  },
+  {
+   "label": "Nashville, TN",
+   "city": "Nashville",
+   "state": "TN",
+   "lat": 36.1622767,
+   "lng": -86.7742984,
+   "source": "Nominatim geocode 2026-09-14",
+   "hq": false
+  },
+  {
+   "label": "Plano, TX",
+   "city": "Plano",
+   "state": "TX",
+   "lat": 33.0136764,
+   "lng": -96.6925096,
+   "source": "Nominatim geocode 2026-09-14",
+   "hq": true
+  }
+ ],
+ "breakdown": {
+  "absolute": 100,
+  "theoretical": 0,
+  "matching": 0
+ },
+ "fields": {
+  "franchisor_legal_name": {
+   "value": "EWC Franchisor LLC",
+   "type": "absolute",
+   "item": "FDD cover, p.1"
+  },
+  "dba_name": {
+   "value": "European Wax Center",
+   "type": "absolute",
+   "item": "FDD Item 13, p.51 (primary Mark EUROPEAN WAX CENTER)"
+  },
+  "franchisor_entity_type": {
+   "value": "Delaware limited liability company",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "franchisor_formed_date": {
+   "value": "2022-02-10",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "corporate_address": {
+   "value": "Granite Park V, 5830 Granite Parkway, Suite 300, Plano, TX 75024",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "corporate_phone": {
+   "value": "(469) 270-6500",
+   "type": "absolute",
+   "item": "FDD cover, p.1"
+  },
+  "corporate_email": {
+   "value": "franchise@waxcenter.com",
+   "type": "absolute",
+   "item": "FDD cover, p.1"
+  },
+  "corporate_city": {
+   "value": "Plano",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "corporate_state": {
+   "value": "TX",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "corporate_zip": {
+   "value": "75024",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "hq_relocated_from": {
+   "value": "Hallandale Beach, Florida; HQ relocated Dec 2019/Jan 2020",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "direct_parent": {
+   "value": "EWC Master Issuer LLC",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "parent_chain": {
+   "value": "EWC Franchisor LLC -> EWC Master Issuer LLC -> EWC Holding Guarantor LLC -> EW Holdco, LLC -> EWC Ventures, LLC (Manager) -> European Wax Center, Inc. (Delaware, incorporated 2021-04-01; ultimate parent)",
+   "type": "absolute",
+   "item": "FDD Item 1, pp.1-3"
+  },
+  "pe_backing": {
+   "value": "General Atlantic (EW) Collections, L.P. acquired a controlling interest in September 2018",
+   "type": "absolute",
+   "item": "FDD Item 1, p.3"
+  },
+  "securitization": {
+   "value": "April 2022 whole-business Securitization Transaction: existing US franchise and related agreements transferred to EWC Franchisor LLC; trademark ownership transferred to us",
+   "type": "absolute",
+   "item": "FDD Item 1, p.2"
+  },
+  "predecessor": {
+   "value": "EWC Franchise, LLC (franchisor 2013-Apr 2022); EWC Franchise Group, Inc. (franchisor 2006-2013)",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "year_franchising_began": {
+   "value": 2006,
+   "type": "absolute",
+   "item": "FDD Item 1, p.1 \u2014 franchises offered since 2006 via affiliated predecessors"
+  },
+  "brand_founded_year": {
+   "value": 2006,
+   "type": "absolute",
+   "item": "FDD Item 1, p.1 \u2014 European Wax Center franchises offered since 2006"
+  },
+  "business_description": {
+   "value": "High-end facial and body hair removal and related skin care services and related products, operated as a retail franchised center",
+   "type": "absolute",
+   "item": "FDD cover + FDD Item 1, p.2"
+  },
+  "facility_size": {
+   "value": "1,200 to 1,600 square feet of retail space",
+   "type": "absolute",
+   "item": "FDD Item 1, p.2"
+  },
+  "website_operated": {
+   "value": "waxcenter.com \u2014 permanent online store established Aug 13, 2020; sells EWC and third-party products",
+   "type": "absolute",
+   "item": "FDD Item 1, p.2"
+  },
+  "affiliate_count": {
+   "value": "15 affiliate companies operating as part of the franchise system",
+   "type": "absolute",
+   "item": "FDD Item 1, p.4"
+  },
+  "operates_other_concepts": {
+   "value": "No \u2014 franchises the European Wax Center brand only",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "single_unit_offer": {
+   "value": "Each franchise agreement grants the right to own and operate a single European Wax Center at a specific approved location",
+   "type": "absolute",
+   "item": "FDD Item 1, p.2"
+  },
+  "multi_unit_option": {
+   "value": "Multi-Unit Development Agreement for 3 or more new Franchised Centers within a Development Territory",
+   "type": "absolute",
+   "item": "FDD Item 1, p.3"
+  },
+  "fdd_issue_date": {
+   "value": "2025-04-22",
+   "type": "absolute",
+   "item": "FDD cover, p.1"
+  },
+  "litigation_pending_count": {
+   "value": 0,
+   "type": "absolute",
+   "item": "FDD Item 3, p.9 \u2014 no pending actions disclosed"
+  },
+  "litigation_prior_1": {
+   "value": "Budde v. Global Power Equipment Group, Inc., No. 3:15-CV-1679-M (N.D. Tex., 2015) \u2014 securities complaint; David L. Willis (franchisor officer) was a named defendant, claims dismissed; we were not a party",
+   "type": "absolute",
+   "item": "FDD Item 3, p.9"
+  },
+  "litigation_prior_2": {
+   "value": "Prince Development, LLC d/b/a Prince Reigns v. European Wax Center, Inc. and Joshua Coba, No. 12-23961 (Broward County, FL, 2012) \u2014 vendor trade-secret/reverse-engineering claim; settled May 2016, $179,000 payment",
+   "type": "absolute",
+   "item": "FDD Item 3, p.9"
+  },
+  "litigation_prior_3": {
+   "value": "EWC Holdings, Inc. v. Princeton Ventures II, LLC, No. 12519 (Del. Chancery, 2016) \u2014 distribution/conversion dispute; settled Dec 2017, $140,000,000 full redemption Jan 2018; we were not a party",
+   "type": "absolute",
+   "item": "FDD Item 3, p.9"
+  },
+  "litigation_prior_4": {
+   "value": "Worley Wax, LLC v. EWC Franchise, LLC, AAA No. 01-21-0004-2691 (2021) \u2014 franchise-termination arbitration; settled Dec 2021, EWC Franchise, LLC paid $400,000, arbitration dismissed with prejudice",
+   "type": "absolute",
+   "item": "FDD Item 3, pp.9-10"
+  },
+  "governmental_action": {
+   "value": "Washington Attorney General no-poaching investigation (issued Sep 10, 2018) \u2014 resolved via Assurance of Discontinuance approved Sep 9, 2019; no fines assessed; anti-poaching provisions removed from form franchise agreement",
+   "type": "absolute",
+   "item": "FDD Item 3, p.10"
+  },
+  "bankruptcy_disclosed": {
+   "value": "None",
+   "type": "absolute",
+   "item": "FDD Item 4, p.10"
+  },
+  "initial_franchise_fee_new": {
+   "value": 45000,
+   "type": "absolute",
+   "item": "FDD Item 5, p.11"
+  },
+  "initial_franchise_fee_existing": {
+   "value": 36000,
+   "type": "absolute",
+   "item": "FDD Item 5, pp.11-12 \u2014 existing franchisees (majority ownership held by existing EWC owners)"
+  },
+  "franchise_fee_refundable": {
+   "value": "50% refundable only if we terminate for your failure to perform certain pre-opening obligations; full retention if you fail to open within 2 years of signing",
+   "type": "absolute",
+   "item": "FDD Item 5, p.12"
+  },
+  "development_fee_range": {
+   "value": "72000 to 207000",
+   "type": "absolute",
+   "item": "FDD Item 5, p.11"
+  },
+  "development_fee_structure": {
+   "value": "Full franchise fee for 1st center + 50% deposit on franchise fee for 2nd-10th centers; non-refundable; transfer of development rights: 20% transfer fee per remaining center",
+   "type": "absolute",
+   "item": "FDD Item 5, p.11"
+  },
+  "startup_package_fee": {
+   "value": "18000 to 21000 plus taxes and delivery; refundable if we terminate before opening (items unopened/sealed)",
+   "type": "absolute",
+   "item": "FDD Item 5, p.12"
+  },
+  "it_platform_setup_fee": {
+   "value": "0 to 350 paid to Zenoti at/around opening (refundable if center does not open)",
+   "type": "absolute",
+   "item": "FDD Item 5, p.12"
+  },
+  "amount_to_franchisor_new": {
+   "value": "63000 to 66350",
+   "type": "absolute",
+   "item": "FDD cover, p.1 \u2014 payable to us or affiliates if a new franchisee"
+  },
+  "amount_to_franchisor_existing": {
+   "value": "54000 to 57350",
+   "type": "absolute",
+   "item": "FDD cover, p.1 \u2014 payable to us or affiliates if an existing franchisee"
+  },
+  "royalty_terms": {
+   "value": "6.00% of Gross Sales, payable weekly",
+   "type": "absolute",
+   "item": "FDD Item 6, p.14"
+  },
+  "marketing_fund_fee": {
+   "value": "3.00% of Gross Sales, payable monthly to our affiliate EWC MFund, LLC (combined marketing fund + local ad obligation since 2016)",
+   "type": "absolute",
+   "item": "FDD Item 6, p.14"
+  },
+  "technology_security_fee": {
+   "value": "$310.00 per month",
+   "type": "absolute",
+   "item": "FDD Item 6, p.14"
+  },
+  "it_cyber_insurance_fee": {
+   "value": "$100.00 per year",
+   "type": "absolute",
+   "item": "FDD Item 6, p.14"
+  },
+  "audit_expenses": {
+   "value": "Audit costs payable only if audit shows underreporting of 3.00% or more",
+   "type": "absolute",
+   "item": "FDD Item 6, p.14"
+  },
+  "successor_term_cure_uplift": {
+   "value": "Royalty and marketing contributions at 150.00% (first 90 days) and 200.00% (second 90 days) during cure period for late successor-term completion",
+   "type": "absolute",
+   "item": "FDD Item 6, p.19"
+  },
+  "investment_min": {
+   "value": 327600,
+   "type": "absolute",
+   "item": "FDD Item 7, p.21"
+  },
+  "investment_max": {
+   "value": 836950,
+   "type": "absolute",
+   "item": "FDD Item 7, p.22"
+  },
+  "real_estate_rent_low": {
+   "value": 6700,
+   "type": "absolute",
+   "item": "FDD Item 7, p.21"
+  },
+  "real_estate_rent_high": {
+   "value": 10000,
+   "type": "absolute",
+   "item": "FDD Item 7, p.21"
+  },
+  "leasehold_improvements_low": {
+   "value": 148000,
+   "type": "absolute",
+   "item": "FDD Item 7, p.21"
+  },
+  "leasehold_improvements_high": {
+   "value": 386000,
+   "type": "absolute",
+   "item": "FDD Item 7, p.21"
+  },
+  "architectural_engineering_low": {
+   "value": 1000,
+   "type": "absolute",
+   "item": "FDD Item 7, p.21"
+  },
+  "architectural_engineering_high": {
+   "value": 48000,
+   "type": "absolute",
+   "item": "FDD Item 7, p.21"
+  },
+  "ff_and_e_low": {
+   "value": 18000,
+   "type": "absolute",
+   "item": "FDD Item 7, p.21"
+  },
+  "ff_and_e_high": {
+   "value": 100000,
+   "type": "absolute",
+   "item": "FDD Item 7, p.21"
+  },
+  "pos_computer_low": {
+   "value": 11000,
+   "type": "absolute",
+   "item": "FDD Item 7, p.21"
+  },
+  "pos_computer_high": {
+   "value": 47000,
+   "type": "absolute",
+   "item": "FDD Item 7, p.21"
+  },
+  "training_travel_low": {
+   "value": 5000,
+   "type": "absolute",
+   "item": "FDD Item 7, p.22"
+  },
+  "training_travel_high": {
+   "value": 7500,
+   "type": "absolute",
+   "item": "FDD Item 7, p.22"
+  },
+  "grand_opening_ad_low": {
+   "value": 12000,
+   "type": "absolute",
+   "item": "FDD Item 7, p.22"
+  },
+  "grand_opening_ad_high": {
+   "value": 35000,
+   "type": "absolute",
+   "item": "FDD Item 7, p.22"
+  },
+  "additional_funds_3mo_low": {
+   "value": 45000,
+   "type": "absolute",
+   "item": "FDD Item 7, p.22"
+  },
+  "additional_funds_3mo_high": {
+   "value": 75000,
+   "type": "absolute",
+   "item": "FDD Item 7, p.22"
+  },
+  "prototype_sqft": {
+   "value": "1,000 to 1,600 square feet of leased space; 5 to 7 waxing suites (min 5, max 7 without approval)",
+   "type": "absolute",
+   "item": "FDD Item 7, note D/B, pp.22-23"
+  },
+  "pos_system": {
+   "value": "Violet \u2014 Zenoti cloud-based POS; additional migration fee may apply on relocation",
+   "type": "absolute",
+   "item": "FDD Item 5, p.12 + FDD Item 7, note I, p.23"
+  },
+  "financing_offered": {
+   "value": "No \u2014 neither we nor our affiliates offer direct or indirect financing; we do not guarantee your lease or other obligations",
+   "type": "absolute",
+   "item": "FDD Item 10, p.36"
+  },
+  "sba_registry": {
+   "value": "Franchisees eligible for expedited SBA loan processing via the SBA Franchise Registry Program",
+   "type": "absolute",
+   "item": "FDD Item 10, p.36"
+  },
+  "training_program": {
+   "value": "Brand Immersion (Part 1, HQ Plano TX or virtual) + Core Training (Part 2, on-demand eLearning) + On-Going Training (Part 3, ad hoc); 90-day center-manager program; ~6-day launch training",
+   "type": "absolute",
+   "item": "FDD Item 11, pp.43-44"
+  },
+  "training_attendees": {
+   "value": "At least one equity owner listed on the franchise agreement; center manager must complete Brand Immersion and Core Training at least 7 days before opening",
+   "type": "absolute",
+   "item": "FDD Item 11, pp.43-44"
+  },
+  "training_cost": {
+   "value": "No charge for standard initial training (first location); you pay all travel, room, board, and personnel compensation \u2014 estimated in Item 7 at $5,000-$7,500",
+   "type": "absolute",
+   "item": "FDD Item 11, p.43 + FDD Item 7, p.22"
+  },
+  "time_to_open": {
+   "value": "Franchised Center must open within 120 days of signing the Franchise Agreement",
+   "type": "absolute",
+   "item": "FDD Item 11, p.43"
+  },
+  "national_conference": {
+   "value": "National conference approximately every 18 months (no more than annually); franchisee and center managers must attend at own cost",
+   "type": "absolute",
+   "item": "FDD Item 11, p.48"
+  },
+  "mgmt_agreement": {
+   "value": "Management agreement with EWC Ventures, LLC to provide support/services; franchisor remains ultimately responsible",
+   "type": "absolute",
+   "item": "FDD Item 11, p.36"
+  },
+  "territory_type": {
+   "value": "Protected (not exclusive)",
+   "type": "absolute",
+   "item": "FDD Item 12, pp.48-50"
+  },
+  "territory_terms": {
+   "value": "Protected territory granted after lease acceptance and depicted in a Location Letter; no EWC franchise locations will be established within it, but no exclusivity \u2014 you may face competition from franchisees, company outlets, other channels, and acquired competitive brands; e-commerce at waxcenter.com competes (10% revenue-share program for guests visiting a center within prior 12 months)",
+   "type": "absolute",
+   "item": "FDD Item 12, pp.48-50"
+  },
+  "development_territory": {
+   "value": "Development Territory for 3+ center developers, protected from new EWC franchises; size varies (portion of city to metro area)",
+   "type": "absolute",
+   "item": "FDD Item 12, p.48"
+  },
+  "owner_participation": {
+   "value": "Franchised Center must be under direct, full-time, daily supervision of a dedicated center manager who has completed training",
+   "type": "absolute",
+   "item": "FDD Item 15, p.55"
+  },
+  "guaranty": {
+   "value": "Individuals owning 5% or more sign the Unlimited Guaranty and Assumption of Obligations; spouses sign a Spousal Joinder",
+   "type": "absolute",
+   "item": "FDD Item 15, p.55"
+  },
+  "initial_term": {
+   "value": "10 years",
+   "type": "absolute",
+   "item": "FDD Item 17, p.56"
+  },
+  "successor_term": {
+   "value": "One additional successive 10-year term; $5,000 successor term fee (none if original agreement had no successor fee)",
+   "type": "absolute",
+   "item": "FDD Item 17, p.56"
+  },
+  "dispute_forum": {
+   "value": "Collin County, Texas \u2014 arbitration for most disputes (individual basis); Texas law applies",
+   "type": "absolute",
+   "item": "FDD Item 17, p.60"
+  },
+  "public_figures": {
+   "value": "None used to promote the franchise",
+   "type": "absolute",
+   "item": "FDD Item 18, p.67"
+  },
+  "item19_fpr": {
+   "value": "None \u2014 the franchisor makes no financial performance representations about future or past performance of franchised or company-owned outlets",
+   "type": "absolute",
+   "item": "FDD Item 19, p.67"
+  },
+  "item20_total_outlets": {
+   "value": 1067,
+   "type": "absolute",
+   "item": "FDD Item 20, p.68 \u2014 1,062 franchised + 5 company-owned, as of 1/4/2025"
+  },
+  "item20_franchised_2024": {
+   "value": 1062,
+   "type": "absolute",
+   "item": "FDD Item 20, p.68"
+  },
+  "item20_company_2024": {
+   "value": 5,
+   "type": "absolute",
+   "item": "FDD Item 20, p.68"
+  },
+  "item20_net_change_2024": {
+   "value": 23,
+   "type": "absolute",
+   "item": "FDD Item 20, p.68"
+  },
+  "item20_growth_3yr": {
+   "value": "+25.2% franchised outlets 2022-2024 (848 to 1,062)",
+   "type": "absolute",
+   "item": "FDD Item 20, p.68"
+  },
+  "item20_terminations_3yr": {
+   "value": 0,
+   "type": "absolute",
+   "item": "FDD Item 20 Table No. 3, pp.68-70 \u2014 zero terminations, zero non-renewals, zero reacquired 2022-2024"
+  },
+  "item20_transfers_3yr": {
+   "value": "92 (2022), 48 (2023), 76 (2024)",
+   "type": "absolute",
+   "item": "FDD Item 20 Table No. 2, p.68"
+  },
+  "item20_exhibit_list": {
+   "value": "Exhibit I lists all franchisees plus addresses and phone numbers of all franchise locations in operation as of March 21, 2025",
+   "type": "absolute",
+   "item": "FDD Item 20, p.68"
+  },
+  "item20_ceased_other_3yr": {
+   "value": 28,
+   "type": "absolute",
+   "item": "FDD Item 20 Table No. 3, pp.68-70 \u2014 ceased operations for other reasons across 2022-2024"
+  },
+  "primary_mark": {
+   "value": "EUROPEAN WAX CENTER (USPTO Principal Register), plus WAX PASS, COMFORT WAX, REVEALING BEAUTIFUL SKIN, WALK IN STRUT OUT",
+   "type": "absolute",
+   "item": "FDD Item 13, p.51"
+  },
+  "waxing_suites": {
+   "value": "Must build 5 to 7 waxing suites (no fewer than 5, no more than 7 without approval)",
+   "type": "absolute",
+   "item": "FDD Item 5, p.12"
+  },
+  "sales_restrictions": {
+   "value": "Must offer all specified retail services/products; may not offer unauthorized products/services",
+   "type": "absolute",
+   "item": "FDD Item 16, p.55"
+  },
+  "netWorthRequirement": {
+   "value": "not disclosed in FDD",
+   "type": "absolute",
+   "item": "GREP-PROOF: 1 'net worth' hit in FDD text (state-addendum escrow provision about the franchisor's own unaudited statements, FDD exhibit addendum), 0 hits as a franchisee financial requirement \u2014 not disclosed in FDD"
+  },
+  "liquidCapitalRequirement": {
+   "value": "not disclosed in FDD",
+   "type": "absolute",
+   "item": "GREP-PROOF: 0 'liquid capital' hits in full FDD text \u2014 not disclosed in FDD"
+  }
+ },
+ "extractor": "european-wax-center-build",
+ "extraction_timestamp_utc": "2026-09-14T17:42:12Z",
+ "fdd_filename": "european-wax-center.pdf",
+ "fdd_sha256": "c41ead05f4049f92b435b225415da5dd50d46e2ba44d1560ea6d31bde8c99fcd",
+ "live_url": "https://bennett-maxwell.github.io/european-wax-center/",
+ "netWorthRequirement": "not disclosed in FDD",
+ "netWorthRequirementNote": "GREP-PROOF: 1 'net worth' hit in FDD text (state-addendum escrow provision about the franchisor's own unaudited statements, FDD exhibit addendum), 0 hits as a franchisee financial requirement \u2014 not disclosed in FDD",
+ "liquidCapitalRequirement": "not disclosed in FDD",
+ "liquidCapitalRequirementNote": "GREP-PROOF: 0 'liquid capital' hits in full FDD text \u2014 not disclosed in FDD",
+ "pinVerification": {
+  "run_utc": "2026-09-14T17:37:36Z",
+  "passed": 15,
+  "total": 15,
+  "note": "Independent Nominatim forward re-run; every pin within 50 km of its labeled city."
+ },
+ "pinsUpdatedAt": "2026-09-14T17:37:36Z"
+}
